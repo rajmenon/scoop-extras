@@ -1,0 +1,12 @@
+{
+    "homepage": "http://www.firstobject.com/dn_editor.htm",
+    "description": "Firstobject's free XML editor for Window",
+    "version": "2.4.2",
+    "url": "http://www.firstobject.com/foxe242.zip",
+    "hash": "CF73532717744201261307E5B656232EF5503DFA1DA71755C4AE8FEDF87703D8",
+    "extract_dir": "foxe",
+    "bin": "foxe.exe",
+    "autoupdate": {
+		"url": "http://www.firstobject.com/foxe$cleanVersion.zip"
+	}
+}
