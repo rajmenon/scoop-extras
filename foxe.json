@@ -3,7 +3,7 @@
     "description": "Firstobject's free XML editor for Window",
     "version": "2.4.2",
     "url": "http://www.firstobject.com/foxe242.zip",
-    "hash": "CF73532717744201261307E5B656232EF5503DFA1DA71755C4AE8FEDF87703D8",
+    "hash": "689fbd70a01ab88cc1a0d4f36574643f1c1cd54e0aac4b1045cfc7ac7bef8358",
     "extract_dir": "foxe",
     "bin": "foxe.exe",
     "autoupdate": {
